@@ -1,0 +1,23 @@
+#search-component {
+    display: flex;
+    gap: 14px;
+}
+
+#search-component .wrapper-search-field label {
+  display: block;
+  margin-bottom: 6px;
+}
+
+#search-component .wrapper-search-field input {
+  padding: 0.4rem;
+  min-width: 320px;
+  border: none;
+  height: 1.6rem;
+  line-height: 1.6rem;
+  font-size: 1rem;
+  border-radius: 6px;
+}
+
+#search-component .button-search {
+    height: 20px;
+}
